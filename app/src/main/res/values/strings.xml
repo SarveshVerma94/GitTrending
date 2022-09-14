@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sarvesh GitTrending</string>
+    <string name="search">Username..</string>
+    <string name="built_by">Built by</string>
+</resources>
